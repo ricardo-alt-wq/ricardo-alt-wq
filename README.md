@@ -52,4 +52,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-ricardo.nissen@escola.pr.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=rmailto:ricardo.nissen@escola.pr.gov.br)](mailto:ricardo.nissen@escola.pr.gov.br)
-[![GitHub](https://img.shields.io/github/followers/ricardo-alt-wqlabel=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/ricardo-alt-wqlabel=follow&style=social)](https://github.com/ricardo-alt-wq)
